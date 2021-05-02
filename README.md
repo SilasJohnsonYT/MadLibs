@@ -31,4 +31,8 @@ or C. all of the above. Also, if you publish your Mad Libs game, you must give c
 
 Just press F5 on your Program.cs editor. It should build. It builds in bin/Debug/netcoreapp3.1
 
+## ONE MORE THING
+
+If you look in the obj folder, there will be a file just called "thing". I made that file to create the folder. It's nothing important.
+
 Thanks for reading!
