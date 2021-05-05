@@ -1,4 +1,5 @@
-# MadLibs
+# Mad Libs Console
+## AND COMPILING TUTORIAL
 MAD LIBS!
 
 We've all played the classic game Mad Libs created by Leonard Stern. Now it's time for me to make it!
